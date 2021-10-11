@@ -1,0 +1,8 @@
+.login-form{
+    display: flex;
+    justify-content: center;
+}
+.social-icon:hover{
+    background-color: darkgreen;
+    border: 2px solid wheat;
+}
